@@ -5,3 +5,49 @@
 .blue_circle_logo{
 	width: 20%;
 }
+.dark_circle_logo{
+	width: 18%;
+}
+.contact-link{
+	color: #223a47;
+}
+.mobile-link{
+	color: #223a47;
+}
+#index-banner{
+	height: 600px;
+}
+.mid-section{
+	background-color: #a8d0c4;
+	margin: 0;
+	width: 100%;
+	max-width:100%;
+	margin: 0 auto;
+	position: relative;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%);
+}
+
+.material-icons{
+	color: #223a47;
+}
+
+.mid-tag{
+	color: #223a47;
+}
+.low-mid{
+	background-color: #b6c7ed;
+	color: #223a47;
+	margin: 0;
+	width: 100%;
+	max-width:100%;
+	margin: 0 auto;
+	position: relative;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%);
+}
+.page-footer{
+	background-color: #627d72
+}
