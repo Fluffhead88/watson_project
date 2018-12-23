@@ -3,10 +3,31 @@
   }
 
 .blue_circle_logo{
-	width: 20%;
+	right: 74px;
+    width: 39%;
+    position: relative;
+    bottom: 63px;
 }
 .dark_circle_logo{
 	width: 18%;
+}
+.logo{
+	position: absolute;
+    /* top: -303px; */
+    width: 52%;
+    right: 340px;
+}
+.buy_btn{
+	background-color: #223a47;
+    position: relative;
+    /* bottom: 296px; */
+    top: 279px;
+}
+.circle_logo{
+	width: 62%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 .contact-link{
 	color: #223a47;
@@ -15,7 +36,7 @@
 	color: #223a47;
 }
 #index-banner{
-	height: 600px;
+	height: 400px;
 }
 .mid-section{
 	background-color: #a8d0c4;
