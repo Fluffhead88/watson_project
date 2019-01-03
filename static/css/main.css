@@ -14,18 +14,23 @@
 .dark_circle_logo{
 	width: 18%;
 }
+.ctr{
+	text-align: center;
+}
 .logo{
 	position: absolute;
     /* top: -303px; */
     width: 52%;
 	/* right: 340px; */
-	transform: translate(-43%, -4%);
+	transform: translate(8%, 4%);
 }
 .buy_btn{
 	background-color: #223a47;
+	color: #dcdcdc;
     position: relative;
     /* bottom: 296px; */
-    top: 279px;
+	top: 279px;
+	left: 329px;
 }
 .circle_logo{
 	/* width: 62%; */
@@ -33,11 +38,16 @@
     margin-left: auto;
     margin-right: auto;
 }
+.icon-block{
+	text-align: center;
+}
 .learn_btn{
+	background-color: #223a47;
+	color: #dcdcdc;
 	/* position: relative;
     top: 0px;
 	left: 75px; */
-	transform: translate(88%, -510%);
+	/* transform: translate(50%, 0%); */
 }
 .contact-link{
 	color: #223a47;
