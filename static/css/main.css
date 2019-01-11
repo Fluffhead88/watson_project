@@ -22,9 +22,9 @@
 .logo_large{
 	position: absolute;
     /* top: -303px; */
-    width: 50%;
+    width: 70%;
     /* right: 340px; */
-    transform: translate(4%, -5%);
+    transform: translate(-12%, -25%);
 }
 .buy_btn{
 	background-color: #223a47;
@@ -115,9 +115,9 @@
 	
 	[class*="logo_large"] {
 		position: absolute;
-		top: 116px;
-		left: 9px;
-		width: 90%;
+		top: 53px;
+		left: 45px;
+		width: 100%;
 	}
 	[class*="mid_pic"] {
 		margin-left: 205px;
