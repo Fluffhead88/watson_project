@@ -61,6 +61,14 @@
 	left: 75px; */
 	/* transform: translate(50%, 0%); */
 }
+.mission_statement{
+	border: 3px solid #223a47;
+    border-style: groove;
+    border-radius: 13px;
+    width: 68%;
+    position: relative;
+    left: 227px;
+}
 .contact-link{
 	color: #223a47;
 }
@@ -93,8 +101,8 @@
 }
 
 .bio{
-	margin-left: 230px;
-    margin-right: 230px;
+	margin-left: 150px;
+    margin-right: 150px;
     font-size: 18pt;
     text-align: center;
 }
@@ -130,5 +138,13 @@
 		margin-right: 30px;
 		font-size: 16pt;
 		text-align: center;
+	}
+	[class*="mission_statement"] {
+		border: 3px solid #223a47;
+		border-style: groove;
+		border-radius: 13px;
+		width: 100%;
+		position: relative;
+		left: 0;
 	}
   }
