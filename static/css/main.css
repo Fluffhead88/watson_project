@@ -53,6 +53,9 @@
 	left: 75px; */
 	/* transform: translate(50%, 0%); */
 }
+.blerb{
+	font-size: 14pt;
+}
 .learn_btn{
 	background-color: #223a47;
 	color: #dcdcdc;
@@ -66,8 +69,7 @@
     border-style: groove;
     border-radius: 13px;
     width: 68%;
-    position: relative;
-    left: 227px;
+	margin: 0 auto;
 }
 .contact-link{
 	color: #223a47;
